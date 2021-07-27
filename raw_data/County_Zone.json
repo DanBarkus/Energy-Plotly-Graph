@@ -1,0 +1,118 @@
+[
+    {
+        "Zone": "WEST",
+        "Counties": [
+            "Niagara",
+            "Erie",
+            "Orleans",
+            "Genesee",
+            "Wyoming",
+            "Livingston",
+            "Cattaraugus",
+            "Chautauqua"
+        ]
+    },
+    {
+        "Zone": "GENESE",
+        "Counties": [
+            "Monroe",
+            "Wayne",
+            "Ontario",
+            "Allegany"
+        ]
+    },
+    {
+        "Zone": "CENTRAL",
+        "Counties": [
+            "Steuben",
+            "Yates",
+            "Seneca",
+            "Oswego",
+            "Onondaga",
+            "Cortland",
+            "Broome",
+            "Tioga",
+            "Tompkins",
+            "Schuyler",
+            "Chemung"
+        ]
+    },
+    {
+        "Zone": "NORTH",
+        "Counties": [
+            "Clinton"
+        ]
+    },
+    {
+        "Zone": "MHK VL",
+        "Counties": [
+            "Franklin",
+            "St. Lawrence",
+            "Jefferson",
+            "Lewis",
+            "Oneida",
+            "Herkimer",
+            "Madison",
+            "Otsego",
+            "Chenango",
+            "Delaware",
+            "Sullivan"
+        ]
+    },
+    {
+        "Zone": "CAPITL",
+        "Counties": [
+            "Essex",
+            "Hamilton",
+            "Warren",
+            "Washington",
+            "Saratoga",
+            "Fulton",
+            "Montgomery",
+            "Schoharie",
+            "Schenectady",
+            "Albany",
+            "Rensselaer",
+            "Columbia"
+        ]
+    },
+    {
+        "Zone": "HUD VL",
+        "Counties": [
+            "Greene",
+            "Ulster",
+            "Orange",
+            "Dutchess",
+            "Putnam",
+            "Rockland"
+        ]
+    },
+    {
+        "Zone": "MILLWD",
+        "Counties": [
+            "Westchester"
+        ]
+    },
+    {
+        "Zone": "DUNWOD",
+        "Counties": [
+            "Bronx"
+        ]
+    },
+    {
+        "Zone": "N.Y.C.",
+        "Counties": [
+            "New York",
+            "Richmond",
+            "Kings",
+            "Queens"
+        ]
+    },
+    {
+        "Zone": "LONGIL",
+        "Counties": [
+            "Nassau",
+            "Suffolk"
+        ]
+    }
+]
